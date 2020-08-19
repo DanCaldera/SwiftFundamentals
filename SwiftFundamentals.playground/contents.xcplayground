@@ -5,5 +5,7 @@
         <page name='Contants'/>
         <page name='DataTypes'/>
         <page name='ImplicitExplicitAsignation'/>
+        <page name='Unicode'/>
+        <page name='StringOperations'/>
     </pages>
 </playground>
